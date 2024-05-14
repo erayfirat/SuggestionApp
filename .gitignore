@@ -1,3 +1,5 @@
-bin/
-obj/
-.vs/
+/.vs
+/SuggestionAppLibrary/obj
+/SuggestionAppUI/obj
+/SuggestionAppLibrary/bin
+/SuggestionAppUI/bin

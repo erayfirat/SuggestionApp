@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,6 +106,14 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
@@ -122,8 +130,7 @@
               "RelativeToolTip": "SuggestionAppLibrary\\Models\\BasicUserModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T07:12:52.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T07:12:52.869Z"
             },
             {
               "$type": "Document",
@@ -135,8 +142,7 @@
               "RelativeToolTip": "SuggestionAppLibrary\\Models\\BasicSuggestionModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T07:04:31.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T07:04:31.495Z"
             },
             {
               "$type": "Document",
@@ -148,8 +154,7 @@
               "RelativeToolTip": "SuggestionAppLibrary\\Models\\UserModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T06:53:19.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T06:53:19.356Z"
             },
             {
               "$type": "Document",
@@ -161,8 +166,7 @@
               "RelativeToolTip": "SuggestionAppLibrary\\Models\\StatusModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T06:40:18.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T06:40:18.597Z"
             },
             {
               "$type": "Document",
@@ -172,7 +176,7 @@
               "RelativeDocumentMoniker": "SuggestionAppLibrary\\Models\\SuggestionModel.cs",
               "ToolTip": "D:\\source\\SuggestionApp\\SuggestionAppLibrary\\Models\\SuggestionModel.cs",
               "RelativeToolTip": "SuggestionAppLibrary\\Models\\SuggestionModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T16:34:46.416Z",
               "EditorCaption": ""
@@ -187,8 +191,7 @@
               "RelativeToolTip": "SuggestionAppLibrary\\Models\\CategoryModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T06:32:36.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T06:32:36.789Z"
             },
             {
               "$type": "Document",
@@ -200,8 +203,7 @@
               "RelativeToolTip": "SuggestionAppUI\\RegisterServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T17:03:12.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T17:03:12.534Z"
             },
             {
               "$type": "Document",
@@ -225,8 +227,7 @@
               "RelativeToolTip": "SuggestionAppLibrary\\GlobalUsings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T16:57:46.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T16:57:46.667Z"
             },
             {
               "$type": "Document",
