@@ -1165,11 +1165,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eray\\source\\repos\\SuggestionApp\\SuggestionAppLibrary\\SuggestionAppLibrary.csproj",
+      "projectUniqueName": "D:\\source\\SuggestionApp\\SuggestionAppLibrary\\SuggestionAppLibrary.csproj",
       "projectName": "SuggestionAppLibrary",
-      "projectPath": "C:\\Users\\eray\\source\\repos\\SuggestionApp\\SuggestionAppLibrary\\SuggestionAppLibrary.csproj",
+      "projectPath": "D:\\source\\SuggestionApp\\SuggestionAppLibrary\\SuggestionAppLibrary.csproj",
       "packagesPath": "C:\\Users\\eray\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eray\\source\\repos\\SuggestionApp\\SuggestionAppLibrary\\obj\\",
+      "outputPath": "D:\\source\\SuggestionApp\\SuggestionAppLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eray\\AppData\\Roaming\\NuGet\\NuGet.Config",

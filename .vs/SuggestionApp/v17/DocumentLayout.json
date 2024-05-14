@@ -1,30 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\eray\\source\\repos\\SuggestionApp\\",
+  "WorkspaceRootPath": "D:\\source\\SuggestionApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E25F4EE-032F-4A69-8249-B46905166E8E}|SuggestionAppUI\\SuggestionAppUI.csproj|c:\\users\\eray\\source\\repos\\suggestionapp\\suggestionappui\\registerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E25F4EE-032F-4A69-8249-B46905166E8E}|SuggestionAppUI\\SuggestionAppUI.csproj|solutionrelative:suggestionappui\\registerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4085B4D5-763E-4134-BD90-E13B1E59CF64}|SuggestionAppLibrary\\SuggestionAppLibrary.csproj|d:\\source\\suggestionapp\\suggestionapplibrary\\models\\suggestionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4085B4D5-763E-4134-BD90-E13B1E59CF64}|SuggestionAppLibrary\\SuggestionAppLibrary.csproj|solutionrelative:suggestionapplibrary\\models\\suggestionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E25F4EE-032F-4A69-8249-B46905166E8E}|SuggestionAppUI\\SuggestionAppUI.csproj|c:\\users\\eray\\source\\repos\\suggestionapp\\suggestionappui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E25F4EE-032F-4A69-8249-B46905166E8E}|SuggestionAppUI\\SuggestionAppUI.csproj|solutionrelative:suggestionappui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4085B4D5-763E-4134-BD90-E13B1E59CF64}|SuggestionAppLibrary\\SuggestionAppLibrary.csproj|d:\\source\\suggestionapp\\suggestionapplibrary\\models\\basicusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4085B4D5-763E-4134-BD90-E13B1E59CF64}|SuggestionAppLibrary\\SuggestionAppLibrary.csproj|solutionrelative:suggestionapplibrary\\models\\basicusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4085B4D5-763E-4134-BD90-E13B1E59CF64}|SuggestionAppLibrary\\SuggestionAppLibrary.csproj|c:\\users\\eray\\source\\repos\\suggestionapp\\suggestionapplibrary\\dataaccess\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4085B4D5-763E-4134-BD90-E13B1E59CF64}|SuggestionAppLibrary\\SuggestionAppLibrary.csproj|solutionrelative:suggestionapplibrary\\dataaccess\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4085B4D5-763E-4134-BD90-E13B1E59CF64}|SuggestionAppLibrary\\SuggestionAppLibrary.csproj|d:\\source\\suggestionapp\\suggestionapplibrary\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4085B4D5-763E-4134-BD90-E13B1E59CF64}|SuggestionAppLibrary\\SuggestionAppLibrary.csproj|solutionrelative:suggestionapplibrary\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4085B4D5-763E-4134-BD90-E13B1E59CF64}|SuggestionAppLibrary\\SuggestionAppLibrary.csproj|c:\\users\\eray\\source\\repos\\suggestionapp\\suggestionapplibrary\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4085B4D5-763E-4134-BD90-E13B1E59CF64}|SuggestionAppLibrary\\SuggestionAppLibrary.csproj|d:\\source\\suggestionapp\\suggestionapplibrary\\models\\basicsuggestionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4085B4D5-763E-4134-BD90-E13B1E59CF64}|SuggestionAppLibrary\\SuggestionAppLibrary.csproj|solutionrelative:suggestionapplibrary\\models\\basicsuggestionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4085B4D5-763E-4134-BD90-E13B1E59CF64}|SuggestionAppLibrary\\SuggestionAppLibrary.csproj|d:\\source\\suggestionapp\\suggestionapplibrary\\models\\statusmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4085B4D5-763E-4134-BD90-E13B1E59CF64}|SuggestionAppLibrary\\SuggestionAppLibrary.csproj|solutionrelative:suggestionapplibrary\\models\\statusmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4085B4D5-763E-4134-BD90-E13B1E59CF64}|SuggestionAppLibrary\\SuggestionAppLibrary.csproj|d:\\source\\suggestionapp\\suggestionapplibrary\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4085B4D5-763E-4134-BD90-E13B1E59CF64}|SuggestionAppLibrary\\SuggestionAppLibrary.csproj|solutionrelative:suggestionapplibrary\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4085B4D5-763E-4134-BD90-E13B1E59CF64}|SuggestionAppLibrary\\SuggestionAppLibrary.csproj|d:\\source\\suggestionapp\\suggestionapplibrary\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4085B4D5-763E-4134-BD90-E13B1E59CF64}|SuggestionAppLibrary\\SuggestionAppLibrary.csproj|solutionrelative:suggestionapplibrary\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E25F4EE-032F-4A69-8249-B46905166E8E}|SuggestionAppUI\\SuggestionAppUI.csproj|c:\\users\\eray\\source\\repos\\suggestionapp\\suggestionappui\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E25F4EE-032F-4A69-8249-B46905166E8E}|SuggestionAppUI\\SuggestionAppUI.csproj|solutionrelative:suggestionappui\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E25F4EE-032F-4A69-8249-B46905166E8E}|SuggestionAppUI\\SuggestionAppUI.csproj|d:\\source\\suggestionapp\\suggestionappui\\registerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E25F4EE-032F-4A69-8249-B46905166E8E}|SuggestionAppUI\\SuggestionAppUI.csproj|solutionrelative:suggestionappui\\registerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4085B4D5-763E-4134-BD90-E13B1E59CF64}|SuggestionAppLibrary\\SuggestionAppLibrary.csproj|c:\\users\\eray\\source\\repos\\suggestionapp\\suggestionapplibrary\\models\\suggestionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4085B4D5-763E-4134-BD90-E13B1E59CF64}|SuggestionAppLibrary\\SuggestionAppLibrary.csproj|solutionrelative:suggestionapplibrary\\models\\suggestionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E25F4EE-032F-4A69-8249-B46905166E8E}|SuggestionAppUI\\SuggestionAppUI.csproj|d:\\source\\suggestionapp\\suggestionappui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E25F4EE-032F-4A69-8249-B46905166E8E}|SuggestionAppUI\\SuggestionAppUI.csproj|solutionrelative:suggestionappui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4085B4D5-763E-4134-BD90-E13B1E59CF64}|SuggestionAppLibrary\\SuggestionAppLibrary.csproj|d:\\source\\suggestionapp\\suggestionapplibrary\\dataaccess\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4085B4D5-763E-4134-BD90-E13B1E59CF64}|SuggestionAppLibrary\\SuggestionAppLibrary.csproj|solutionrelative:suggestionapplibrary\\dataaccess\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E25F4EE-032F-4A69-8249-B46905166E8E}|SuggestionAppUI\\SuggestionAppUI.csproj|d:\\source\\suggestionapp\\suggestionappui\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E25F4EE-032F-4A69-8249-B46905166E8E}|SuggestionAppUI\\SuggestionAppUI.csproj|solutionrelative:suggestionappui\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,11 +114,89 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasicUserModel.cs",
+              "DocumentMoniker": "D:\\source\\SuggestionApp\\SuggestionAppLibrary\\Models\\BasicUserModel.cs",
+              "RelativeDocumentMoniker": "SuggestionAppLibrary\\Models\\BasicUserModel.cs",
+              "ToolTip": "D:\\source\\SuggestionApp\\SuggestionAppLibrary\\Models\\BasicUserModel.cs",
+              "RelativeToolTip": "SuggestionAppLibrary\\Models\\BasicUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:12:52.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasicSuggestionModel.cs",
+              "DocumentMoniker": "D:\\source\\SuggestionApp\\SuggestionAppLibrary\\Models\\BasicSuggestionModel.cs",
+              "RelativeDocumentMoniker": "SuggestionAppLibrary\\Models\\BasicSuggestionModel.cs",
+              "ToolTip": "D:\\source\\SuggestionApp\\SuggestionAppLibrary\\Models\\BasicSuggestionModel.cs",
+              "RelativeToolTip": "SuggestionAppLibrary\\Models\\BasicSuggestionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:04:31.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\source\\SuggestionApp\\SuggestionAppLibrary\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "SuggestionAppLibrary\\Models\\UserModel.cs",
+              "ToolTip": "D:\\source\\SuggestionApp\\SuggestionAppLibrary\\Models\\UserModel.cs",
+              "RelativeToolTip": "SuggestionAppLibrary\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:53:19.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatusModel.cs",
+              "DocumentMoniker": "D:\\source\\SuggestionApp\\SuggestionAppLibrary\\Models\\StatusModel.cs",
+              "RelativeDocumentMoniker": "SuggestionAppLibrary\\Models\\StatusModel.cs",
+              "ToolTip": "D:\\source\\SuggestionApp\\SuggestionAppLibrary\\Models\\StatusModel.cs",
+              "RelativeToolTip": "SuggestionAppLibrary\\Models\\StatusModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:40:18.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SuggestionModel.cs",
+              "DocumentMoniker": "D:\\source\\SuggestionApp\\SuggestionAppLibrary\\Models\\SuggestionModel.cs",
+              "RelativeDocumentMoniker": "SuggestionAppLibrary\\Models\\SuggestionModel.cs",
+              "ToolTip": "D:\\source\\SuggestionApp\\SuggestionAppLibrary\\Models\\SuggestionModel.cs",
+              "RelativeToolTip": "SuggestionAppLibrary\\Models\\SuggestionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:34:46.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "D:\\source\\SuggestionApp\\SuggestionAppLibrary\\Models\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "SuggestionAppLibrary\\Models\\CategoryModel.cs",
+              "ToolTip": "D:\\source\\SuggestionApp\\SuggestionAppLibrary\\Models\\CategoryModel.cs",
+              "RelativeToolTip": "SuggestionAppLibrary\\Models\\CategoryModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:32:36.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "RegisterServices.cs",
-              "DocumentMoniker": "C:\\Users\\eray\\source\\repos\\SuggestionApp\\SuggestionAppUI\\RegisterServices.cs",
+              "DocumentMoniker": "D:\\source\\SuggestionApp\\SuggestionAppUI\\RegisterServices.cs",
               "RelativeDocumentMoniker": "SuggestionAppUI\\RegisterServices.cs",
-              "ToolTip": "C:\\Users\\eray\\source\\repos\\SuggestionApp\\SuggestionAppUI\\RegisterServices.cs",
+              "ToolTip": "D:\\source\\SuggestionApp\\SuggestionAppUI\\RegisterServices.cs",
               "RelativeToolTip": "SuggestionAppUI\\RegisterServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,68 +205,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eray\\source\\repos\\SuggestionApp\\SuggestionAppUI\\Program.cs",
+              "DocumentMoniker": "D:\\source\\SuggestionApp\\SuggestionAppUI\\Program.cs",
               "RelativeDocumentMoniker": "SuggestionAppUI\\Program.cs",
-              "ToolTip": "C:\\Users\\eray\\source\\repos\\SuggestionApp\\SuggestionAppUI\\Program.cs",
+              "ToolTip": "D:\\source\\SuggestionApp\\SuggestionAppUI\\Program.cs",
               "RelativeToolTip": "SuggestionAppUI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T17:01:57.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T17:01:57.135Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "C:\\Users\\eray\\source\\repos\\SuggestionApp\\SuggestionAppLibrary\\GlobalUsings.cs",
+              "DocumentMoniker": "D:\\source\\SuggestionApp\\SuggestionAppLibrary\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "SuggestionAppLibrary\\GlobalUsings.cs",
-              "ToolTip": "C:\\Users\\eray\\source\\repos\\SuggestionApp\\SuggestionAppLibrary\\GlobalUsings.cs",
+              "ToolTip": "D:\\source\\SuggestionApp\\SuggestionAppLibrary\\GlobalUsings.cs",
               "RelativeToolTip": "SuggestionAppLibrary\\GlobalUsings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T16:57:46.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "DbConnection.cs",
-              "DocumentMoniker": "C:\\Users\\eray\\source\\repos\\SuggestionApp\\SuggestionAppLibrary\\DataAccess\\DbConnection.cs",
+              "DocumentMoniker": "D:\\source\\SuggestionApp\\SuggestionAppLibrary\\DataAccess\\DbConnection.cs",
               "RelativeDocumentMoniker": "SuggestionAppLibrary\\DataAccess\\DbConnection.cs",
-              "ToolTip": "C:\\Users\\eray\\source\\repos\\SuggestionApp\\SuggestionAppLibrary\\DataAccess\\DbConnection.cs",
+              "ToolTip": "D:\\source\\SuggestionApp\\SuggestionAppLibrary\\DataAccess\\DbConnection.cs",
               "RelativeToolTip": "SuggestionAppLibrary\\DataAccess\\DbConnection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T16:37:37.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T16:37:37.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SuggestionModel.cs",
-              "DocumentMoniker": "C:\\Users\\eray\\source\\repos\\SuggestionApp\\SuggestionAppLibrary\\Models\\SuggestionModel.cs",
-              "RelativeDocumentMoniker": "SuggestionAppLibrary\\Models\\SuggestionModel.cs",
-              "ToolTip": "C:\\Users\\eray\\source\\repos\\SuggestionApp\\SuggestionAppLibrary\\Models\\SuggestionModel.cs",
-              "RelativeToolTip": "SuggestionAppLibrary\\Models\\SuggestionModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T16:34:46.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "C:\\Users\\eray\\source\\repos\\SuggestionApp\\SuggestionAppUI\\GlobalUsings.cs",
+              "DocumentMoniker": "D:\\source\\SuggestionApp\\SuggestionAppUI\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "SuggestionAppUI\\GlobalUsings.cs",
-              "ToolTip": "C:\\Users\\eray\\source\\repos\\SuggestionApp\\SuggestionAppUI\\GlobalUsings.cs",
+              "ToolTip": "D:\\source\\SuggestionApp\\SuggestionAppUI\\GlobalUsings.cs",
               "RelativeToolTip": "SuggestionAppUI\\GlobalUsings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T16:31:34.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T16:31:34.228Z"
             }
           ]
         }
